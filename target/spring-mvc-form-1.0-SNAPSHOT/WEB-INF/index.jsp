@@ -1,0 +1,1 @@
+<jsp:forward page="views/jsp/users/show.jsp" />
